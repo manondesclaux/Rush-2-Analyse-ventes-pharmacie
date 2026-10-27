@@ -1,6 +1,6 @@
 # Rush 2 · Analyse des ventes d'une pharmacie
 
-Projet du MBA Data Epitech (promo 2028), groupe **Les 3 M** : Manon Desclaux, Manon Rollet et Mina.
+Projet du [MBA Strategic Project Management & Entrepreneurship](https://www.epitech.eu/formation-alternance/mba-strategic-project-management-entrepreneurship/) d'Epitech (promo 2028), groupe **Les 3 M** : Manon Desclaux, Manon Rollet et Mina.
 
 Une pharmacie indépendante a exporté ses ventes de janvier 2014 à octobre 2019 pour 8 groupes de médicaments (codes
 ATC), en quantités et sans prix. Le manager pose deux questions :
