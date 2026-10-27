@@ -1,0 +1,849 @@
+{
+ "wb_hist_rows": 2106,
+ "wb_hist_nulls": 0,
+ "wb_hist_maxdiff_vs_export": 0.0,
+ "wb_sheets": [
+  "Accueil",
+  "Activite",
+  "Environnement",
+  "Stocks",
+  "Scan",
+  "Recherche",
+  "Calendrier",
+  "Statistiques",
+  "Qualite_donnees",
+  "Calculs",
+  "Historique"
+ ],
+ "period": [
+  "2014-01-02",
+  "2019-10-08"
+ ],
+ "n_days": 2106,
+ "missing_days": 0,
+ "neg_values": 0,
+ "nan_values": 0,
+ "chk_hourly_vs_daily_maxdiff": 3.000003800934792e-09,
+ "chk_hourly_days": 2106,
+ "chk_daily_vs_weekly_maxdiff": 3.00000237984932e-08,
+ "chk_monthly_cells_diff": 45,
+ "chk_monthly_cells": 560,
+ "chk_monthly_rel_gap": -0.015031260033421538,
+ "chk_monthly_months_with_gap": [
+  "2014-01",
+  "2014-04",
+  "2014-08",
+  "2014-09",
+  "2014-10",
+  "2015-03",
+  "2015-06",
+  "2015-11",
+  "2016-03",
+  "2016-04",
+  "2016-05",
+  "2016-06",
+  "2016-07",
+  "2016-08",
+  "2016-10",
+  "2016-11",
+  "2016-12",
+  "2017-03",
+  "2017-04",
+  "2017-06",
+  "2017-07",
+  "2018-02",
+  "2018-04",
+  "2018-05",
+  "2018-10",
+  "2018-12",
+  "2019-01",
+  "2019-04",
+  "2019-05",
+  "2019-07",
+  "2019-09"
+ ],
+ "oct2014_gap": {
+  "M01AB": -35.2,
+  "M01AE": -41.2,
+  "N02BA": -26.4,
+  "N02BE": -42.8,
+  "N05B": -8.5,
+  "N05C": -35.3,
+  "R03": -12.3,
+  "R06": -37.3
+ },
+ "complete_months": [
+  "2014-02",
+  "2019-09",
+  68
+ ],
+ "stats": {
+  "M01AB": {
+   "total": 10547.6,
+   "share": 8.3,
+   "mean": 5.1,
+   "median": 5.0,
+   "std": 2.72,
+   "cv": 0.53,
+   "p95": 10.0,
+   "max": 17.3,
+   "zero_days": 13,
+   "zero_pct": 0.6
+  },
+  "M01AE": {
+   "total": 8193.8,
+   "share": 6.5,
+   "mean": 3.96,
+   "median": 3.68,
+   "std": 2.12,
+   "cv": 0.53,
+   "p95": 7.7,
+   "max": 14.5,
+   "zero_days": 10,
+   "zero_pct": 0.5
+  },
+  "N02BA": {
+   "total": 8014.4,
+   "share": 6.3,
+   "mean": 3.88,
+   "median": 3.5,
+   "std": 2.33,
+   "cv": 0.6,
+   "p95": 8.0,
+   "max": 16.0,
+   "zero_days": 53,
+   "zero_pct": 2.6
+  },
+  "N02BE": {
+   "total": 62941.4,
+   "share": 49.6,
+   "mean": 30.44,
+   "median": 27.0,
+   "std": 15.87,
+   "cv": 0.52,
+   "p95": 60.6,
+   "max": 161.0,
+   "zero_days": 0,
+   "zero_pct": 0.0
+  },
+  "N05B": {
+   "total": 18167.0,
+   "share": 14.3,
+   "mean": 8.78,
+   "median": 8.0,
+   "std": 5.52,
+   "cv": 0.63,
+   "p95": 19.0,
+   "max": 54.8,
+   "zero_days": 18,
+   "zero_pct": 0.9
+  },
+  "N05C": {
+   "total": 1212.0,
+   "share": 1.0,
+   "mean": 0.59,
+   "median": 0.0,
+   "std": 1.09,
+   "cv": 1.86,
+   "p95": 3.0,
+   "max": 9.0,
+   "zero_days": 1417,
+   "zero_pct": 68.5
+  },
+  "R03": {
+   "total": 11593.1,
+   "share": 9.1,
+   "mean": 5.61,
+   "median": 4.0,
+   "std": 6.51,
+   "cv": 1.16,
+   "p95": 20.0,
+   "max": 45.0,
+   "zero_days": 465,
+   "zero_pct": 22.5
+  },
+  "R06": {
+   "total": 6101.2,
+   "share": 4.8,
+   "mean": 2.95,
+   "median": 2.0,
+   "std": 2.43,
+   "cv": 0.82,
+   "p95": 8.0,
+   "max": 15.0,
+   "zero_days": 235,
+   "zero_pct": 11.4
+  }
+ },
+ "season_index": {
+  "M01AB": [
+   1.08,
+   0.97,
+   0.96,
+   1.03,
+   0.96,
+   0.92,
+   1.02,
+   1.06,
+   0.98,
+   0.97,
+   1.02,
+   1.03
+  ],
+  "M01AE": [
+   1.24,
+   1.18,
+   0.98,
+   0.94,
+   0.94,
+   0.9,
+   0.95,
+   0.91,
+   1.0,
+   0.98,
+   0.96,
+   1.06
+  ],
+  "N02BA": [
+   1.13,
+   1.22,
+   1.03,
+   0.97,
+   0.96,
+   0.97,
+   0.9,
+   0.9,
+   0.87,
+   1.04,
+   1.08,
+   0.98
+  ],
+  "N02BE": [
+   1.54,
+   1.19,
+   0.98,
+   0.88,
+   0.76,
+   0.68,
+   0.64,
+   0.68,
+   1.05,
+   1.39,
+   1.07,
+   1.36
+  ],
+  "N05B": [
+   1.13,
+   1.01,
+   0.94,
+   0.92,
+   0.86,
+   0.9,
+   0.94,
+   1.03,
+   1.05,
+   1.07,
+   1.06,
+   1.14
+  ],
+  "N05C": [
+   1.2,
+   0.92,
+   1.06,
+   0.82,
+   1.05,
+   1.0,
+   0.82,
+   1.05,
+   0.89,
+   0.86,
+   1.15,
+   1.24
+  ],
+  "R03": [
+   1.39,
+   1.22,
+   1.12,
+   1.04,
+   0.9,
+   0.78,
+   0.53,
+   0.55,
+   0.79,
+   1.31,
+   1.11,
+   1.49
+  ],
+  "R06": [
+   0.53,
+   0.57,
+   1.08,
+   1.66,
+   1.71,
+   1.5,
+   1.14,
+   0.91,
+   0.87,
+   0.67,
+   0.53,
+   0.49
+  ]
+ },
+ "weekday_index": {
+  "M01AB": [
+   1.01,
+   1.0,
+   0.93,
+   0.9,
+   0.95,
+   1.15,
+   1.07
+  ],
+  "M01AE": [
+   0.96,
+   0.92,
+   0.94,
+   0.94,
+   0.95,
+   1.1,
+   1.19
+  ],
+  "N02BA": [
+   1.02,
+   1.1,
+   0.95,
+   0.96,
+   1.0,
+   1.08,
+   0.91
+  ],
+  "N02BE": [
+   0.98,
+   0.93,
+   0.93,
+   0.94,
+   0.96,
+   1.11,
+   1.14
+  ],
+  "N05B": [
+   1.05,
+   1.08,
+   1.14,
+   0.99,
+   1.12,
+   0.96,
+   0.65
+  ],
+  "N05C": [
+   1.03,
+   1.17,
+   1.12,
+   0.9,
+   1.31,
+   0.92,
+   0.55
+  ],
+  "R03": [
+   1.07,
+   0.98,
+   0.98,
+   0.97,
+   1.04,
+   1.0,
+   0.95
+  ],
+  "R06": [
+   0.99,
+   1.04,
+   0.92,
+   0.9,
+   0.95,
+   1.13,
+   1.07
+  ]
+ },
+ "weekday_total": [
+  61.5,
+  60.2,
+  59.3,
+  58.0,
+  60.9,
+  66.2,
+  63.0
+ ],
+ "hour_share_total": {
+  "0": 0.0,
+  "1": 0.0,
+  "2": 0.0,
+  "3": 0.0,
+  "4": 0.0,
+  "5": 0.0,
+  "6": 0.0,
+  "7": 0.45,
+  "8": 4.83,
+  "9": 6.4,
+  "10": 7.58,
+  "11": 8.43,
+  "12": 8.2,
+  "13": 7.38,
+  "14": 6.84,
+  "15": 6.41,
+  "16": 6.12,
+  "17": 6.5,
+  "18": 7.95,
+  "19": 8.92,
+  "20": 8.77,
+  "21": 5.17,
+  "22": 0.05,
+  "23": 0.0
+ },
+ "hour_share_N05": {
+  "0": 0.0,
+  "1": 0.0,
+  "2": 0.0,
+  "3": 0.0,
+  "4": 0.0,
+  "5": 0.0,
+  "6": 0.0,
+  "7": 0.33,
+  "8": 5.58,
+  "9": 7.66,
+  "10": 9.75,
+  "11": 10.67,
+  "12": 10.13,
+  "13": 9.39,
+  "14": 7.25,
+  "15": 6.39,
+  "16": 5.83,
+  "17": 5.53,
+  "18": 6.34,
+  "19": 6.4,
+  "20": 5.64,
+  "21": 3.07,
+  "22": 0.04,
+  "23": 0.0
+ },
+ "year_mean_per_day": {
+  "M01AB": {
+   "2014": 4.0,
+   "2015": 5.24,
+   "2016": 5.82,
+   "2017": 5.07,
+   "2018": 5.01,
+   "2019": 5.44
+  },
+  "M01AE": {
+   "2014": 3.52,
+   "2015": 4.16,
+   "2016": 4.4,
+   "2017": 3.85,
+   "2018": 3.86,
+   "2019": 3.95
+  },
+  "N02BA": {
+   "2014": 4.41,
+   "2015": 4.44,
+   "2016": 4.57,
+   "2017": 3.37,
+   "2018": 3.12,
+   "2019": 3.21
+  },
+  "N02BE": {
+   "2014": 25.22,
+   "2015": 33.11,
+   "2016": 37.0,
+   "2017": 25.98,
+   "2018": 31.55,
+   "2019": 28.9
+  },
+  "N05B": {
+   "2014": 11.98,
+   "2015": 8.19,
+   "2016": 8.63,
+   "2017": 6.45,
+   "2018": 9.05,
+   "2019": 8.65
+  },
+  "N05C": {
+   "2014": 0.73,
+   "2015": 0.44,
+   "2016": 0.58,
+   "2017": 0.45,
+   "2018": 0.66,
+   "2019": 0.7
+  },
+  "R03": {
+   "2014": 3.42,
+   "2015": 4.86,
+   "2016": 5.88,
+   "2017": 5.2,
+   "2018": 7.41,
+   "2019": 7.04
+  },
+  "R06": {
+   "2014": 2.28,
+   "2015": 2.74,
+   "2016": 2.94,
+   "2017": 2.67,
+   "2018": 3.32,
+   "2019": 3.94
+  }
+ },
+ "year_total_per_day": {
+  "2014": 55.6,
+  "2015": 63.2,
+  "2016": 69.8,
+  "2017": 53.0,
+  "2018": 64.0,
+  "2019": 61.8
+ },
+ "hourly_rows_N05C_eq_1": 806,
+ "hourly_rows_N05C_nonzero_pct": 1.6,
+ "hourly_N05C_rows_le2": 85.6,
+ "hourly_N05B_rows_le2": 81.8,
+ "daily_N05C_le2_pct": 75.4,
+ "weekly_N05C_le2_pct": 21.8,
+ "monthly_N05C_le2_pct": 0.0,
+ "hourly_N05B_nonzero_pct": 20.6,
+ "monthly_N05C_min": 5.0,
+ "monthly_N05C_mean": 17.8,
+ "non_integer_share": {
+  "M01AB": 61.0,
+  "M01AE": 87.0,
+  "N02BA": 42.3,
+  "N02BE": 59.6,
+  "N05B": 1.8,
+  "N05C": 0.0,
+  "R03": 0.2,
+  "R06": 11.6
+ },
+ "forecast_test_window": [
+  "2017-10",
+  "2019-09"
+ ],
+ "forecast_test_window_33": [
+  "2017-01",
+  "2019-09"
+ ],
+ "forecast": {
+  "M01AB": {
+   "methods": {
+    "Naïf (mois précédent)": {
+     "mae": 14.3,
+     "mape": 9.0
+    },
+    "Saisonnier naïf (même mois N-1)": {
+     "mae": 16.2,
+     "mape": 10.4
+    },
+    "Moyenne 3 mois": {
+     "mae": 13.4,
+     "mape": 8.6
+    },
+    "Niveau 12 mois × saisonnalité": {
+     "mae": 11.8,
+     "mape": 7.5
+    },
+    "Tendance onglet Stocks": {
+     "mae": 24.7,
+     "mape": 16.6
+    }
+   },
+   "best": "Niveau 12 mois × saisonnalité",
+   "gain_vs_naive": 17.5,
+   "mean_month": 157.5,
+   "verdict": "Oui",
+   "gain_vs_naive_33": 8.1,
+   "best_33": "Moyenne 3 mois",
+   "mape_best_33": 8.8,
+   "stocks_trend_mape": 16.6,
+   "stocks_trend_mape_33": 22.5,
+   "naive_mape_33": 9.5,
+   "oct2019_forecast": 161.0,
+   "oct2018_actual": 145.0
+  },
+  "M01AE": {
+   "methods": {
+    "Naïf (mois précédent)": {
+     "mae": 20.1,
+     "mape": 16.2
+    },
+    "Saisonnier naïf (même mois N-1)": {
+     "mae": 16.8,
+     "mape": 13.7
+    },
+    "Moyenne 3 mois": {
+     "mae": 18.0,
+     "mape": 14.7
+    },
+    "Niveau 12 mois × saisonnalité": {
+     "mae": 15.8,
+     "mape": 13.1
+    },
+    "Tendance onglet Stocks": {
+     "mae": 21.3,
+     "mape": 18.2
+    }
+   },
+   "best": "Niveau 12 mois × saisonnalité",
+   "gain_vs_naive": 21.4,
+   "mean_month": 117.6,
+   "verdict": "Oui",
+   "gain_vs_naive_33": 16.9,
+   "best_33": "Niveau 12 mois × saisonnalité",
+   "mape_best_33": 12.5,
+   "stocks_trend_mape": 18.2,
+   "stocks_trend_mape_33": 21.5,
+   "naive_mape_33": 14.5,
+   "oct2019_forecast": 117.0,
+   "oct2018_actual": 129.0
+  },
+  "N02BA": {
+   "methods": {
+    "Naïf (mois précédent)": {
+     "mae": 11.5,
+     "mape": 12.1
+    },
+    "Saisonnier naïf (même mois N-1)": {
+     "mae": 14.5,
+     "mape": 15.2
+    },
+    "Moyenne 3 mois": {
+     "mae": 11.6,
+     "mape": 12.2
+    },
+    "Niveau 12 mois × saisonnalité": {
+     "mae": 10.9,
+     "mape": 11.3
+    },
+    "Tendance onglet Stocks": {
+     "mae": 18.0,
+     "mape": 18.7
+    }
+   },
+   "best": "Niveau 12 mois × saisonnalité",
+   "gain_vs_naive": 5.2,
+   "mean_month": 97.6,
+   "verdict": "Naïf suffisant",
+   "gain_vs_naive_33": 0.0,
+   "best_33": "Naïf (mois précédent)",
+   "mape_best_33": 12.3,
+   "stocks_trend_mape": 18.7,
+   "stocks_trend_mape_33": 26.8,
+   "naive_mape_33": 12.3,
+   "oct2019_forecast": 97.0,
+   "oct2018_actual": 76.0
+  },
+  "N02BE": {
+   "methods": {
+    "Naïf (mois précédent)": {
+     "mae": 210.8,
+     "mape": 21.4
+    },
+    "Saisonnier naïf (même mois N-1)": {
+     "mae": 219.3,
+     "mape": 22.3
+    },
+    "Moyenne 3 mois": {
+     "mae": 268.6,
+     "mape": 29.0
+    },
+    "Niveau 12 mois × saisonnalité": {
+     "mae": 117.3,
+     "mape": 11.8
+    },
+    "Tendance onglet Stocks": {
+     "mae": 214.3,
+     "mape": 21.0
+    }
+   },
+   "best": "Niveau 12 mois × saisonnalité",
+   "gain_vs_naive": 44.4,
+   "mean_month": 940.9,
+   "verdict": "Oui",
+   "gain_vs_naive_33": 21.8,
+   "best_33": "Niveau 12 mois × saisonnalité",
+   "mape_best_33": 20.3,
+   "stocks_trend_mape": 21.0,
+   "stocks_trend_mape_33": 36.2,
+   "naive_mape_33": 21.8,
+   "oct2019_forecast": 1308.0,
+   "oct2018_actual": 1129.0
+  },
+  "N05B": {
+   "methods": {
+    "Naïf (mois précédent)": {
+     "mae": 32.9,
+     "mape": 12.4
+    },
+    "Saisonnier naïf (même mois N-1)": {
+     "mae": 58.5,
+     "mape": 21.3
+    },
+    "Moyenne 3 mois": {
+     "mae": 28.9,
+     "mape": 11.0
+    },
+    "Niveau 12 mois × saisonnalité": {
+     "mae": 46.3,
+     "mape": 16.8
+    },
+    "Tendance onglet Stocks": {
+     "mae": 106.0,
+     "mape": 39.9
+    }
+   },
+   "best": "Moyenne 3 mois",
+   "gain_vs_naive": 12.2,
+   "mean_month": 263.4,
+   "verdict": "Naïf suffisant",
+   "gain_vs_naive_33": 0.0,
+   "best_33": "Naïf (mois précédent)",
+   "mape_best_33": 12.8,
+   "stocks_trend_mape": 39.9,
+   "stocks_trend_mape_33": 41.8,
+   "naive_mape_33": 12.8,
+   "oct2019_forecast": 235.0,
+   "oct2018_actual": 287.0
+  },
+  "N05C": {
+   "methods": {
+    "Naïf (mois précédent)": {
+     "mae": 7.2,
+     "mape": 42.2
+    },
+    "Saisonnier naïf (même mois N-1)": {
+     "mae": 10.3,
+     "mape": 58.8
+    },
+    "Moyenne 3 mois": {
+     "mae": 6.5,
+     "mape": 38.5
+    },
+    "Niveau 12 mois × saisonnalité": {
+     "mae": 7.2,
+     "mape": 43.9
+    },
+    "Tendance onglet Stocks": {
+     "mae": 12.5,
+     "mape": 70.3
+    }
+   },
+   "best": "Moyenne 3 mois",
+   "gain_vs_naive": 9.7,
+   "mean_month": 19.5,
+   "verdict": "Non",
+   "gain_vs_naive_33": 6.8,
+   "best_33": "Moyenne 3 mois",
+   "mape_best_33": 46.0,
+   "stocks_trend_mape": 70.3,
+   "stocks_trend_mape_33": 64.2,
+   "naive_mape_33": 48.7,
+   "oct2019_forecast": 17.0,
+   "oct2018_actual": 25.0
+  },
+  "R03": {
+   "methods": {
+    "Naïf (mois précédent)": {
+     "mae": 49.0,
+     "mape": 25.5
+    },
+    "Saisonnier naïf (même mois N-1)": {
+     "mae": 67.3,
+     "mape": 30.5
+    },
+    "Moyenne 3 mois": {
+     "mae": 71.0,
+     "mape": 37.7
+    },
+    "Niveau 12 mois × saisonnalité": {
+     "mae": 58.7,
+     "mape": 28.8
+    },
+    "Tendance onglet Stocks": {
+     "mae": 57.2,
+     "mape": 27.4
+    }
+   },
+   "best": "Naïf (mois précédent)",
+   "gain_vs_naive": 0.0,
+   "mean_month": 220.2,
+   "verdict": "Non",
+   "gain_vs_naive_33": 0.0,
+   "best_33": "Naïf (mois précédent)",
+   "mape_best_33": 30.0,
+   "stocks_trend_mape": 27.4,
+   "stocks_trend_mape_33": 36.5,
+   "naive_mape_33": 30.0,
+   "oct2019_forecast": 125.0,
+   "oct2018_actual": 327.0
+  },
+  "R06": {
+   "methods": {
+    "Naïf (mois précédent)": {
+     "mae": 29.3,
+     "mape": 27.9
+    },
+    "Saisonnier naïf (même mois N-1)": {
+     "mae": 26.9,
+     "mape": 24.3
+    },
+    "Moyenne 3 mois": {
+     "mae": 39.8,
+     "mape": 36.1
+    },
+    "Niveau 12 mois × saisonnalité": {
+     "mae": 19.8,
+     "mape": 18.3
+    },
+    "Tendance onglet Stocks": {
+     "mae": 22.9,
+     "mape": 21.9
+    }
+   },
+   "best": "Niveau 12 mois × saisonnalité",
+   "gain_vs_naive": 32.4,
+   "mean_month": 101.5,
+   "verdict": "Partiellement",
+   "gain_vs_naive_33": 30.4,
+   "best_33": "Niveau 12 mois × saisonnalité",
+   "mape_best_33": 20.8,
+   "stocks_trend_mape": 21.9,
+   "stocks_trend_mape_33": 27.9,
+   "naive_mape_33": 28.3,
+   "oct2019_forecast": 75.0,
+   "oct2018_actual": 77.0
+  }
+ },
+ "forecast_share_oui": 64.4,
+ "forecast_share_oui_partiel": 69.2,
+ "flu_corr": {
+  "M01AB": 0.01,
+  "M01AE": 0.39,
+  "N02BA": 0.24,
+  "N02BE": 0.42,
+  "N05B": 0.09,
+  "N05C": 0.03,
+  "R03": 0.29,
+  "R06": -0.32
+ },
+ "flu_weeks": 300,
+ "flu_r2": {
+  "N02BE": 17.4,
+  "R03": 8.5,
+  "M01AE": 14.9
+ },
+ "flu_epi_weeks": 51,
+ "flu_epi_uplift": {
+  "M01AB": 1.1,
+  "M01AE": 26.5,
+  "N02BA": 16.7,
+  "N02BE": 45.7,
+  "N05B": 7.1,
+  "N05C": 3.4,
+  "R03": 44.3,
+  "R06": -42.5
+ },
+ "flu_series_used": "Sentinelles indicateur 3 (syndromes grippaux), France, incidence /100 000 hab., hebdomadaire"
+}
